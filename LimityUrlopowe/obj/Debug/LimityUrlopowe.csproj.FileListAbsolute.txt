@@ -1,0 +1,8 @@
+C:\Users\magdaw\Documents\Tomma\LimityUrlopowe\LimityUrlopowe\obj\Debug\LimityUrlopowe.csproj.AssemblyReference.cache
+C:\Users\magdaw\Documents\Tomma\LimityUrlopowe\LimityUrlopowe\obj\Debug\LimityUrlopowe.csproj.ResolveComReference.cache
+C:\Users\magdaw\Documents\Tomma\LimityUrlopowe\LimityUrlopowe\obj\Debug\LimityUrlopowe.csproj.CoreCompileInputs.cache
+C:\Users\magdaw\Documents\Tomma\LimityUrlopowe\LimityUrlopowe\bin\Debug\LimityUrlopowe.exe.config
+C:\Users\magdaw\Documents\Tomma\LimityUrlopowe\LimityUrlopowe\bin\Debug\LimityUrlopowe.exe
+C:\Users\magdaw\Documents\Tomma\LimityUrlopowe\LimityUrlopowe\bin\Debug\LimityUrlopowe.pdb
+C:\Users\magdaw\Documents\Tomma\LimityUrlopowe\LimityUrlopowe\obj\Debug\LimityUrlopowe.exe
+C:\Users\magdaw\Documents\Tomma\LimityUrlopowe\LimityUrlopowe\obj\Debug\LimityUrlopowe.pdb

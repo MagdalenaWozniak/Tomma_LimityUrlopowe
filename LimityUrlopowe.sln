@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LimityUrlopowe", "LimityUrlopowe\LimityUrlopowe.csproj", "{BD6B6ABD-695F-4E7F-A5C3-35E9D6384700}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD6B6ABD-695F-4E7F-A5C3-35E9D6384700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD6B6ABD-695F-4E7F-A5C3-35E9D6384700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD6B6ABD-695F-4E7F-A5C3-35E9D6384700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD6B6ABD-695F-4E7F-A5C3-35E9D6384700}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45A2D850-840D-4841-8608-F8EA2AD12FE5}
+	EndGlobalSection
+EndGlobal
